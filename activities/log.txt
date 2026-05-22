@@ -1,1 +1,2 @@
-
+https://www.youtube.com/watch?v=xE7qO6OvKDY: (Chaos Theory Explained in Simple Terms)
+This video discusses the basic ideas and foundations of chaos theory and deterministic systems, which are systems in which we use initial conditions and something's current state to accurately predict future states. Chaos theory explores the idea of how within deterministic systems, errors arising from measuring the initial conditions and current state can compound and lead to something that appears as randomness. The classic example is typically characterized by the hypothetical scenario in which a butterfly in Mexico flapping its wings could lead to the formation of a tornado in Texas. 
