@@ -1,1 +1,2 @@
 # Report 1: What is Chaos?
+In a perfect world, the set of physical laws we know to be true would be sufficient to accurately predict the outcome of most common natural systems, called deterministic systems. Unfortunately our universe isn't so, and by looking at any weather forecast we can observe it right away: the meteorologists cannot predict the next day's weather with 100% accuracy and cannot confidently predict the weather in two weeks at all. 
