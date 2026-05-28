@@ -14,9 +14,20 @@
    - your own reading on binary shifting map and chaos
    - your own reading on statistics and chaos
 
-## ?. Attractor and stability
+## 3. Chaotic attractor and fractal dimension
+   - https://www.youtube.com/watch?v=aAJkLh76QnM
+   - https://www.youtube.com/watch?v=uDpYU01dhk0
+   - https://www.youtube.com/watch?v=n8e-1IWNXhE
+   - https://www.youtube.com/watch?v=FnRhnZbDprE
+   - your own reading on the correlation dimension
+   - your own reading on the box-counting dimension
+
+## 4. Some nonlinear ODE background and bifurcation
+   - https://www.youtube.com/watch?v=d8ppjeQF-GU&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=3
    - https://www.youtube.com/watch?v=Mcqrn9V7_YI&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=4
+   - https://www.youtube.com/watch?v=BBd68_q3Dgg&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=7
 
 ## ?. Lorenz attractor
    - https://www.youtube.com/watch?v=fDek6cYijxI
+   - https://www.youtube.com/watch?v=PDeN3iCtyNY
    - https://www.youtube.com/watch?v=uzJXeluCKMs&t=534s
