@@ -1,4 +1,8 @@
 # Report 1: What is Chaos?
 In a perfect world, the set of physical laws we know to be true would be sufficient to accurately predict the outcome of most common natural systems, called deterministic systems. Unfortunately our universe isn't so, and when looking at any weather forecast we can observe this imperfection immediately: the meteorologists cannot even predict the next day's weather with 100% accuracy and the weather in two weeks at all. This is because weather systems are chaotic at nature.
+
 Scientists define chaos as the extreme sensitivity to changes in an initial state but when used to predict the evolution of a deterministic system, which is where it differs from pure randomness, though the two are often used interchangeably day-to-day. One of the most classical scenarios of chaos is Lorenz's Butterfly Effect, which states that theorectically a butterfly's wing flap in Brazil could cause a Tornado in Texas. Chaos theory is the study of how we can analyze chaotic deterministic systems to more accurately predict them; in other words, predicting the unpredictable. 
+
 Although chaos theory and the analysis of chaos was initially intended for climate modeling and weather prediction, the inherent unpredictability of many natural behaviors, like how molecules bond with one another or even the movement of biped robots, has allowed chaos theory to permeate into a variety of fields and its application into these areas has a positive outlook.
+
+
