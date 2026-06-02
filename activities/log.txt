@@ -24,3 +24,6 @@ A lot of real-world statistics and measurements rely on the simple relation x_(n
 
 https://www.youtube.com/watch?v=zMx1fzzqOxY&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=3: (Big Picture of Dynamics & Its Applications)
 Lecture #2 in Dr. Shane Ross's Nonlinear Dynamics and Chaos series highlights the different branches of dynamics based on the number of variables within a system as well as if it can be described linearly or non-linearly. Most practical models fall between 1 and 2 variables but may be both linear and non-linear; starting from having n >= 3 variables chaos may be present, and towards infinite variable, non-linear systems falls the current frontier of dynamical physics.
+
+https://schoolcoders.com/data-representation/numbers/binary-shift/: (binary shift, schoolcoders)
+Binary shifts are a kind of map within bit manipulation, and fall into three categories: logical shifts left, logical shifts right, and arithmetic shifts. For the first two types a byte of binary data has each valued shifted to the left or right, and the furthest 0 or 1 at the end disappears and is replaced by a 0 at the opposite end. Arithmetic shifts are similar but are used for dealing with signed integers, where the signed term remains unchanged and the rest of the values follow a logical shift pattern.
