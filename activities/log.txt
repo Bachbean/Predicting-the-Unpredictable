@@ -27,3 +27,9 @@ Lecture #2 in Dr. Shane Ross's Nonlinear Dynamics and Chaos series highlights th
 
 https://schoolcoders.com/data-representation/numbers/binary-shift/: (binary shift, schoolcoders)
 Binary shifts are a kind of map within bit manipulation, and fall into three categories: logical shifts left, logical shifts right, and arithmetic shifts. For the first two types a byte of binary data has each valued shifted to the left or right, and the furthest 0 or 1 at the end disappears and is replaced by a 0 at the opposite end. Arithmetic shifts are similar but are used for dealing with signed integers, where the signed term remains unchanged and the rest of the values follow a logical shift pattern.
+
+https://pdodds.w3.uvm.edu/files/papers/others/1992/berliner1992a.pdf: (Statistics, Probability, and Chaos)
+A little hard to read after first page but seems interesting, will continue later.
+
+https://www.youtube.com/watch?v=aAJkLh76QnM: (Chaos | Chapter 7 : Strange Attractors - The butterfly effect)
+Lorenz created a extremely simplified model of the atmosphere that utilized a set of three differential equations based on three variables. For example, we could enter in the initial conditions of temperature, wind speed, and humidity, and then plot the vector field of the differential equations as our prediction of future states. Though this system is chaotic and extremely sensitive to changes in these initial conditions, across all potential initial states the vector fields seemed to orbit around certain areas, what we call today as Lorenz or strange attractors. The shape of the paths typically makes a butterfly-like shape around the attractors, a lesser known phenomenon overshadowed by the mainstream butterfly effect.
