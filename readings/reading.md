@@ -15,7 +15,7 @@
    - your own reading on statistics and chaos
 
 ## 3. Chaotic attractor and fractal dimension
-   - https://www.youtube.com/watch?v=aAJkLh76QnM
+   - https://www.youtube.com/watch?v=aAJkLh76QnM --
    - https://www.youtube.com/watch?v=uDpYU01dhk0
    - https://www.youtube.com/watch?v=n8e-1IWNXhE
    - https://www.youtube.com/watch?v=FnRhnZbDprE
