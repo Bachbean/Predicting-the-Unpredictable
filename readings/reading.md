@@ -18,7 +18,7 @@
    - https://www.youtube.com/watch?v=aAJkLh76QnM --
    - https://www.youtube.com/watch?v=uDpYU01dhk0 --
    - https://www.youtube.com/watch?v=n8e-1IWNXhE --
-   - https://www.youtube.com/watch?v=FnRhnZbDprE
+   - https://www.youtube.com/watch?v=FnRhnZbDprE --
    - your own reading on the correlation dimension
    - your own reading on the box-counting dimension
 
