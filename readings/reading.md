@@ -23,9 +23,28 @@
    - your own reading on the box-counting dimension
 
 ## 4. Some nonlinear ODE background and bifurcation
+   - https://www.youtube.com/watch?v=YNIm2Op7UPg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&index=2
    - https://www.youtube.com/watch?v=d8ppjeQF-GU&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=3
    - https://www.youtube.com/watch?v=Mcqrn9V7_YI&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=4
    - https://www.youtube.com/watch?v=BBd68_q3Dgg&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=7
+
+## 5. What is predictability vs unpredictability?
+   - https://www.youtube.com/watch?v=GMhVuZa6VtY
+   - https://www.youtube.com/watch?v=D89ngRr4uZg
+   - https://www.youtube.com/watch?v=6GfIDwwxfsM
+   - https://www.youtube.com/watch?v=l2wnqlcOL9A
+   - https://www.youtube.com/watch?v=TQKELOE9eY4&t=226s
+   - https://www.youtube.com/watch?v=BNYz5EKXVeI
+   - your own reading on how a dynamical system is called predictable
+   - your own reading on how chaos dictates the predictability of nonlinear systems
+   - your own reading on the relation between classical predictability vs quantum uncertainties 
+
+## 6. Entropy and chaos
+   - What is entropy?
+   - Coarse-grain vs fine-grain entropy
+   - Chaotic attractor entropy
+   - Why does a black hole have entropy?
+   - How to measure the entropy of a chaotic system
 
 ## ?. Lorenz attractor
    - https://www.youtube.com/watch?v=fDek6cYijxI
