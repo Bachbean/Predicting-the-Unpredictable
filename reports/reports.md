@@ -6,3 +6,4 @@ Scientists define chaos as the extreme sensitivity to changes in an initial stat
 Although chaos theory and the analysis of chaos was initially intended for climate modeling and weather prediction, the inherent unpredictability of many natural behaviors, like how molecules bond with one another or even the movement of biped robots, has allowed chaos theory to permeate into a variety of fields and its application into these areas has a positive outlook.
 
 
+# Report 2: Statistics and Chaos
