@@ -5,10 +5,3 @@ Scientists define chaos as the extreme sensitivity to changes in an initial stat
 
 Although chaos theory and the analysis of chaos was initially intended for climate modeling and weather prediction, the inherent unpredictability of many natural behaviors, like how molecules bond with one another or even the movement of biped robots, has allowed chaos theory to permeate into a variety of fields and its application into these areas has a positive outlook.
 
-
-# Report 2: Statistics and Chaos
-Despite the randomness that arises from chaos, experimentation from scientists reveals there are in fact underlying patterns within the disorder. A big question is why? Why does the energy contained in eddies of turbulence decrease by a scale of -5/3 with respect to their radius? Why does it appear within logistic maps? Chaos and randomness are different for a reason.
-
-One interesting example is in relation to Lorenz's Butterfly effect: within the paper it was published, there is lesser known segment on strange attractors. When drawing out all possible paths of a chaotic set of differential equations, the paths seemed to orbit around two blank spaces in a butterfly pattern. These were fundamental to the idea of strange and Lorenz attractors, which although have a more mathematical definition can intuitively be thought of as boundaries in a chaotic system. A main goal of chaos theory is to determine where and why these attractors appear.
-
-Furthermore, chaos has made appearances in the field of logistics. The famous logistic map, where values are recursively determined by the formula r_(n+1) = x(1-x)r_n and which often accurately reflects many natural systems, has spawned whole new analyses of the statistics in chaos. Although the chaos comes in the form of quantaties like periodicity, peak length, or potential values, it forecasts implications in real-world scenarios.
