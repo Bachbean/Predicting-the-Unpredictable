@@ -24,8 +24,8 @@
 
 ## 4. Some nonlinear ODE background and bifurcation
    - https://www.youtube.com/watch?v=YNIm2Op7UPg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&index=2 --
-   - https://www.youtube.com/watch?v=d8ppjeQF-GU&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=3
-   - https://www.youtube.com/watch?v=Mcqrn9V7_YI&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=4
+   - https://www.youtube.com/watch?v=d8ppjeQF-GU&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=3 --
+   - https://www.youtube.com/watch?v=Mcqrn9V7_YI&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=4 --
    - https://www.youtube.com/watch?v=BBd68_q3Dgg&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=7
 
 ## 5. What is predictability vs unpredictability?
