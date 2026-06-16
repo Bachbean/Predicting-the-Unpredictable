@@ -1,4 +1,6 @@
 # Fractals Interlude
 Later we will discuss the deeper connection between fractals and chaos theory, but this is a brief introduction to a topic much worth exploring. Firstly, what is a fractal? Common notions will have infinite, self-similar shapes that are quite fun to look at, such as the Sierpinski Triangle. However, to solidy this into  convention, mathematicians and physicists decided that to be a fractal, a shape must have a fractional, hence the name fractal, Hausdorff dimension. 
 
-Scientists need a different way of classifying 
+Scientists need a different way of classifying the dimension of such shapes, which don't really follow the common perceptions of integer dimension shapes like lines circles, and cubes, and thus the Hausdorff dimension of an object is intuitively based on the idea of scaling: to make a line segment 3 times as large, it would be made of 3 lines and thus a line has dimension log_3(3) = 1; for a triangle it takes 4 copies to make a triangle twice as large thus it has dimension log_2(4) = 2. In the Sierpinski triangle for example, it takes 3 copies to double its size, or it has an equivalent Hausdorff dimension of 1.585.
+
+Fractals also appear throughout nature much to the confusion of scientists and they continue to pose fascinating questions, like the infinite coastline dilemma, where scientists noted that the coastlines of countries closely resembled fractals, and further that when measured with rulers of decreasing size the perimeter seemingly kept increasing.
