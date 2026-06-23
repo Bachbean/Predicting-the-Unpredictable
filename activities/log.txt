@@ -63,3 +63,8 @@ Continuation on the graphical analysis of 1-dimensional functions: it can be qui
 
 https://www.youtube.com/watch?v=QrHRaA93Nrg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&index=6: (MAE5790-5 Two dimensional linear systems)
 Compared to 1-D systems, two dimensional nonlinear systems are much more complex as now the trajectories span across the xy-plane and are no longer limited to a line. Instead of using typical graph analysis, phase portaits clearly demonstrate future vector trajectories, and are useful in classifying different types of systems. (Have to read some linear algebra content to understand what lambda and A represent).
+
+Background knowledge research on linear algebra:
+A fundamental component of vectors and matrices are eigenvectors and eigenvalues: eigenvectors are vectors that do not change direction under a matrix operation. A square matrix transformation of a vector is started by converting the vectors components typically into an n-x-1 matrix from which the operator simply performs typical matrix multiplcation. The fundamental equation is described as Av = lambda*v, where lambda is the eigenvalue; essentially, the eigenvalue represents a scalar we may multiply to a non-zero vector v that results in the same vector has applying the matrix A. We have to solve this equation in conventional matrix methods, i.e. rearranging and setting the det(A-I*lambda) = 0.
+
+Revisiting two dimensional linear systems:
