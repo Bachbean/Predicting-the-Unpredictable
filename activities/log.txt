@@ -68,3 +68,8 @@ Background knowledge research on linear algebra:
 A fundamental component of vectors and matrices are eigenvectors and eigenvalues: eigenvectors are vectors that do not change direction under a matrix operation. A square matrix transformation of a vector is started by converting the vectors components typically into an n-x-1 matrix from which the operator simply performs typical matrix multiplcation. The fundamental equation is described as Av = lambda*v, where lambda is the eigenvalue; essentially, the eigenvalue represents a scalar we may multiply to a non-zero vector v that results in the same vector has applying the matrix A. We have to solve this equation in conventional matrix methods, i.e. rearranging and setting the det(A-I*lambda) = 0.
 
 Revisiting two dimensional linear systems:
+Within two dimensional systems, the values of the trace and determinant in the quadratic creates topological differences in the fixed points (under the straight-line solution assumption): 
+Negative determinant: will always create saddle points and asymptotic trajectories, one positive and one negative eigenvalue.
+Positive determinant and negative trace (repelling is direct opposite): attracting fixed points, if both lambda are real and negative there will be one fast and one slow trajectory all attracting towards the fixed point usually parallel to fast direction as time goes to negative infinity, if both lambda are complex their real part controls the decay while the imaginary will control the rotation to form a spiral
+Zero trace and positive determinant: pure imaginary lambda creates completely closed trajectories since there is no decay
+Zero determinant: a line or plane of fixed points 
