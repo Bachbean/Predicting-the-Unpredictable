@@ -27,7 +27,7 @@
    - https://www.youtube.com/watch?v=d8ppjeQF-GU&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=3 --
    - https://www.youtube.com/watch?v=Mcqrn9V7_YI&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=4 --
    - https://www.youtube.com/watch?v=BBd68_q3Dgg&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=7 --
-   - https://www.youtube.com/watch?v=QrHRaA93Nrg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&index=5
+   - https://www.youtube.com/watch?v=QrHRaA93Nrg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&index=5 --
 
 ## 5. What is predictability vs unpredictability?
    - https://www.youtube.com/watch?v=GMhVuZa6VtY
