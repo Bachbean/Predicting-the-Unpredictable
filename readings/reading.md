@@ -42,12 +42,27 @@
 
 ## 6. Entropy and chaos
    - What is entropy?
-   - Coarse-grain vs fine-grain entropy
-   - Chaotic attractor entropy
-   - Why does a black hole have entropy?
-   - How to measure the entropy of a chaotic system
+        + https://www.youtube.com/watch?v=DxL2HoqLbyA&t=588s
+        + https://www.youtube.com/watch?v=Sz1n0RHwLqA
+        + https://www.youtube.com/watch?v=0Z2bIv4DXts
+        + https://www.youtube.com/watch?v=PFcGiMLwjeY
+   - Shannon information entropy: https://www.youtube.com/watch?v=9r7FIXEAGvs
+   - Black hole entropy:
+        + https://www.youtube.com/watch?v=2Z2zgv2njY8
+        + https://www.youtube.com/watch?v=9XkHBmE-N34
+   - your own reading on how to measure the entropy for a chaotic system
+   - your own reading on coarse-grain vs fine-grain entropy
+   - your own reading on entropy on chaotic attractors
 
-## ?. Lorenz attractor
+## 7. The 3-body problem and chaos
+   - https://www.youtube.com/watch?v=D89ngRr4uZg
+   - https://www.youtube.com/watch?v=mm3I4m8YsnM
+   - https://www.youtube.com/watch?v=et7XvBenEo8
+
+## 8. The Lorenz 3-variable chaos model
+   - ...
+
+## ?. Attractor visualization
    - https://www.youtube.com/watch?v=fDek6cYijxI
    - https://www.youtube.com/watch?v=PDeN3iCtyNY
    - https://www.youtube.com/watch?v=uzJXeluCKMs&t=534s
