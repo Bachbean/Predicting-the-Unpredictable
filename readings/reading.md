@@ -30,7 +30,7 @@
    - https://www.youtube.com/watch?v=QrHRaA93Nrg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&index=5 --
 
 ## 5. What is predictability vs unpredictability?
-   - https://www.youtube.com/watch?v=GMhVuZa6VtY
+   - https://www.youtube.com/watch?v=GMhVuZa6VtY --
    - https://www.youtube.com/watch?v=D89ngRr4uZg
    - https://www.youtube.com/watch?v=6GfIDwwxfsM
    - https://www.youtube.com/watch?v=l2wnqlcOL9A
