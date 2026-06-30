@@ -76,3 +76,9 @@ Zero determinant: a line or plane of fixed points
 
 https://www.youtube.com/watch?v=GMhVuZa6VtY: (How Chaos Theory affects the Stock Market, and explains unpredictability)
 Outside of information already discussed above, essentially smooth outlines of the stock market or individual stock prices sometimes look similar to the values of a nonlinear system over time, such as the x-value of a swinging double pendulum. Obviously these predictions only work short term, but just like the double pendulum is constrained to a certain region, underlying financial factors cause market prices to stay within a reasonable range.
+
+https://www.youtube.com/watch?v=D89ngRr4uZg: (Newton’s three-body problem explained - Fabio Pacucci)
+The three-body problem states that given a system of three or more gravitational objects, it is impossible to identify all the equations needed to completely solve the system or determine the objects' trajectories as there are simply too many unknown variables. 
+
+Gemini reading on predictability:
+A predictable system is one with low-sensitivity to initial errors, and typically increasing the accuracy of measurements increases the accuracy of the prediction. Unpredictability is the opposite. Chaos is a specific type of unpredictability that resides in deterministic systems, meaning that not all predictable systems are deterministic, but all chaotic systems do indeed follow precise mathematical laws, but are just extremely sensitive.
