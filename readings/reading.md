@@ -31,8 +31,6 @@
 
 ## 5. What is predictability vs unpredictability?
    - https://www.youtube.com/watch?v=GMhVuZa6VtY --
-   - https://www.youtube.com/watch?v=D89ngRr4uZg --
-   - https://www.youtube.com/watch?v=6GfIDwwxfsM
    - https://www.youtube.com/watch?v=l2wnqlcOL9A
    - https://www.youtube.com/watch?v=TQKELOE9eY4&t=226s
    - https://www.youtube.com/watch?v=BNYz5EKXVeI
@@ -58,6 +56,8 @@
    - https://www.youtube.com/watch?v=D89ngRr4uZg
    - https://www.youtube.com/watch?v=mm3I4m8YsnM
    - https://www.youtube.com/watch?v=et7XvBenEo8
+   - https://www.youtube.com/watch?v=D89ngRr4uZg --
+   - https://www.youtube.com/watch?v=6GfIDwwxfsM --
 
 ## 8. The Lorenz 3-variable chaos model
    - ...
