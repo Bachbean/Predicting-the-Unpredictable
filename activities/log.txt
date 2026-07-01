@@ -82,3 +82,9 @@ The three-body problem states that given a system of three or more gravitational
 
 Gemini reading on predictability:
 A predictable system is one with low-sensitivity to initial errors, and typically increasing the accuracy of measurements increases the accuracy of the prediction. Unpredictability is the opposite. Chaos is a specific type of unpredictability that resides in deterministic systems, meaning that not all predictable systems are deterministic, but all chaotic systems do indeed follow precise mathematical laws, but are just extremely sensitive.
+
+https://www.youtube.com/watch?v=6GfIDwwxfsM: (Neil deGrasse Tyson Explains The Three-Body Problem)
+More precisely, the three body problem states that in a gravitational system of three objects of approximately similar mass their movements are chaotic and unsolvable. However, there is a restricted three body problem in which two are of large and similar mass and the third is much smaller, in which the system is still solvable. Furthermore, Laplace's Perturbation Theory has shown in such a system that it is quite stable because the gravitational "tugs" cancel out over time.
+
+https://www.youtube.com/watch?v=l2wnqlcOL9A: (The REAL Three Body Problem in Physics)
+In typical systems there are normal fixed points that are either stable or unstable that can attract/repel trajectories near them, but in the case of the three body system, Poincare discovered the existence of half stable points, called saddle points because the seat of the saddle is an example of a half stable fixed point. Despite accuracy limitations bound by ideas like the Heisenberg Uncertainty Principle, scientists have begin to use numerical integration or time-step integration, where each time step is evaluated to predict the next state, have proven to be quite effective for now.
