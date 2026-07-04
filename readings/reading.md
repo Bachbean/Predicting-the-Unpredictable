@@ -31,7 +31,7 @@
 
 ## 5. What is predictability vs unpredictability?
    - https://www.youtube.com/watch?v=GMhVuZa6VtY --
-   - https://www.youtube.com/watch?v=l2wnqlcOL9A
+   - https://www.youtube.com/watch?v=l2wnqlcOL9A --
    - https://www.youtube.com/watch?v=TQKELOE9eY4&t=226s
    - https://www.youtube.com/watch?v=BNYz5EKXVeI
    - your own reading on how a dynamical system is called predictable --
