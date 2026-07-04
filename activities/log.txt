@@ -88,3 +88,9 @@ More precisely, the three body problem states that in a gravitational system of 
 
 https://www.youtube.com/watch?v=l2wnqlcOL9A: (The REAL Three Body Problem in Physics)
 In typical systems there are normal fixed points that are either stable or unstable that can attract/repel trajectories near them, but in the case of the three body system, Poincare discovered the existence of half stable points, called saddle points because the seat of the saddle is an example of a half stable fixed point. Despite accuracy limitations bound by ideas like the Heisenberg Uncertainty Principle, scientists have begin to use numerical integration or time-step integration, where each time step is evaluated to predict the next state, have proven to be quite effective for now.
+
+https://www.youtube.com/watch?v=TQKELOE9eY4: (What is the Heisenberg Uncertainty Principle? - Chad Orzel)
+The Heisenberg Uncertainty Principle states that we can never know both an object's position and momentum (sometimes substituted with velocity) with 100% certainty at a specific time. Every object behaves as both a wave and particle at the same time, but waves have wavelengths, which can measure momentum but not position and particles have no discernible wavelength but a specific position, and as such, a combination of both results in issues.
+
+https://www.youtube.com/watch?v=BNYz5EKXVeI: (Heisenberg's Uncertainty Principle Explained & Simplified - Position & Momentum - Chemistry Problems)
+Same info as above video.
