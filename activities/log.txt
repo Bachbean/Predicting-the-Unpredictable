@@ -94,3 +94,6 @@ The Heisenberg Uncertainty Principle states that we can never know both an objec
 
 https://www.youtube.com/watch?v=BNYz5EKXVeI: (Heisenberg's Uncertainty Principle Explained & Simplified - Position & Momentum - Chemistry Problems)
 Same info as above video.
+
+https://www.youtube.com/watch?v=DxL2HoqLbyA&t=588s: (The Most Misunderstood Concept in Physics)
+Entropy is typically thought of as the randomness and disorder that is associated with everyday objects. However, Rudolf Clausius precisely defined it as a method to measure how diffused a system's energy is: higher entropy means the energy is more dispersed and lower energy means it's more condensed. His laws of theromodynamics solified this in two statements: the universe's energy is constant, and entropy is inclined to reach its maximum. In real life situations, it's why warm things cool down and cool objects heat up, as the internal or external energy tries to disperse. 
