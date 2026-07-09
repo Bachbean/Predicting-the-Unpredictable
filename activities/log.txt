@@ -97,3 +97,9 @@ Same info as above video.
 
 https://www.youtube.com/watch?v=DxL2HoqLbyA&t=588s: (The Most Misunderstood Concept in Physics)
 Entropy is typically thought of as the randomness and disorder that is associated with everyday objects. However, Rudolf Clausius precisely defined it as a method to measure how diffused a system's energy is: higher entropy means the energy is more dispersed and lower energy means it's more condensed. His laws of theromodynamics solified this in two statements: the universe's energy is constant, and entropy is inclined to reach its maximum. In real life situations, it's why warm things cool down and cool objects heat up, as the internal or external energy tries to disperse. 
+
+https://www.youtube.com/watch?v=Sz1n0RHwLqA: (The physics of entropy and the origin of life | Sean Carroll)
+Although entropy sometimes provides a pessimistic view of life with the idea that disorder will naturally always increase until the universe's perfect state of equilibrium, or its heat death, we still don't understand how it will reach that state. More specifically, we know that disorder and energy dissipation are always increasing, but the question of how the complexity of systems will change is unanswered. What's more, studying entropy can potentially help us understand the origins of life, at least on Earth. The existence of thermal vents was hypothesized by entropy theory before they were discovered.
+
+https://www.youtube.com/watch?v=0Z2bIv4DXts: (Introduction to entropy | Applications of thermodynamics | AP Chemistry | Khan Academy)
+The main reason why entropy increases is because nature tends to situations where energy has the most available states or positions, called microstates. The more microstates in a system the higher the energy, and Boltzmann compiled this relation into an equation. Many things can influence the number of microstates such as volume, pressume, and temperature differences in a location.
