@@ -43,7 +43,6 @@
         + https://www.youtube.com/watch?v=DxL2HoqLbyA&t=588s --
         + https://www.youtube.com/watch?v=Sz1n0RHwLqA --
         + https://www.youtube.com/watch?v=0Z2bIv4DXts --
-        + https://www.youtube.com/watch?v=PFcGiMLwjeY
    - Shannon information entropy: https://www.youtube.com/watch?v=9r7FIXEAGvs
    - Black hole entropy:
         + https://www.youtube.com/watch?v=2Z2zgv2njY8
