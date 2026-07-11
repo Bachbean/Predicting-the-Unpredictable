@@ -103,3 +103,6 @@ Although entropy sometimes provides a pessimistic view of life with the idea tha
 
 https://www.youtube.com/watch?v=0Z2bIv4DXts: (Introduction to entropy | Applications of thermodynamics | AP Chemistry | Khan Academy)
 The main reason why entropy increases is because nature tends to situations where energy has the most available states or positions, called microstates. The more microstates in a system the higher the energy, and Boltzmann compiled this relation into an equation. Many things can influence the number of microstates such as volume, pressume, and temperature differences in a location.
+
+https://www.youtube.com/watch?v=9r7FIXEAGvs: (Shannon Entropy and Information Gain)
+Entropy is actually inversely correlated to the amount of knowledge known in a system: the lower the energy, the smaller the amount of multistates, and therefore a higher certainty of knowing a property of the system. However, as working with probabilities often involves multiplying many small numbers it's often inconvenient to work with an even smaller product, and so Claude Shannon created a formula for Shannon entropy using logarithms, which allows us to convert the products into sums. An interesting property of this formula is that it gives us the average number of questions needed to ask to determine certain information.
