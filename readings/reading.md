@@ -46,7 +46,7 @@
    - Shannon information entropy: https://www.youtube.com/watch?v=9r7FIXEAGvs --
    - Black hole entropy:
         + https://www.youtube.com/watch?v=2Z2zgv2njY8 --
-        + https://www.youtube.com/watch?v=9XkHBmE-N34
+        + https://www.youtube.com/watch?v=9XkHBmE-N34 --
    - your own reading on how to measure the entropy for a chaotic system
    - your own reading on coarse-grain vs fine-grain entropy
    - your own reading on entropy on chaotic attractors
