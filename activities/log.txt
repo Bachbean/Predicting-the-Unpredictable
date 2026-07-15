@@ -106,3 +106,5 @@ The main reason why entropy increases is because nature tends to situations wher
 
 https://www.youtube.com/watch?v=9r7FIXEAGvs: (Shannon Entropy and Information Gain)
 Entropy is actually inversely correlated to the amount of knowledge known in a system: the lower the energy, the smaller the amount of multistates, and therefore a higher certainty of knowing a property of the system. However, as working with probabilities often involves multiplying many small numbers it's often inconvenient to work with an even smaller product, and so Claude Shannon created a formula for Shannon entropy using logarithms, which allows us to convert the products into sums. An interesting property of this formula is that it gives us the average number of questions needed to ask to determine certain information.
+
+https://www.youtube.com/watch?v=9XkHBmE-N34: (The Black Hole Information Paradox)
