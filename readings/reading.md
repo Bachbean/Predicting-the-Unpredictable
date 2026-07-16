@@ -59,8 +59,12 @@
    - https://www.youtube.com/watch?v=6GfIDwwxfsM --
 
 ## 8. The Lorenz 3-variable chaos model
-   - ...
-
+   - Where is from: https://www.youtube.com/watch?v=fIG2jtOhW0U
+   - Stability analysis: https://www.youtube.com/watch?v=U-bWDtbB4qY
+   - Finite difference approach: https://www.youtube.com/watch?v=aSDXf2chp3E
+   - Python approach: https://www.youtube.com/watch?v=ZH-feJ8iX1w
+   - Programming it: https://www.youtube.com/watch?v=GdNjTJZnTmM
+     
 ## ?. Attractor visualization
    - https://www.youtube.com/watch?v=fDek6cYijxI
    - https://www.youtube.com/watch?v=PDeN3iCtyNY
