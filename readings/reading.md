@@ -52,7 +52,7 @@
    - your own reading on entropy on chaotic attractors
 
 ## 7. The 3-body problem and chaos
-   - https://www.youtube.com/watch?v=D89ngRr4uZg
+   - https://www.youtube.com/watch?v=D89ngRr4uZg --
    - https://www.youtube.com/watch?v=mm3I4m8YsnM
    - https://www.youtube.com/watch?v=et7XvBenEo8
    - https://www.youtube.com/watch?v=D89ngRr4uZg --
