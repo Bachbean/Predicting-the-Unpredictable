@@ -115,3 +115,6 @@ Fine grained entropy is the view of entropy that is ultra-precise and details th
 
 Gemini: Chaotic attractors and Kolgomorov-Sinai Entropy
 Despite the unpredictable nature of chaotic systems, there are still ways of measuring "how" chaotic or disordered these systems are: through Shannon entropy. Similar to what was discussed above, Shannon entropy is based on the amount of information we know in a system and it tracks that the more chaotic or sensitive a system is, the less information we know about it. To calculate this measurement, physicists developed Kolgomorov-Sinai/metric entropy. It works by measuring the information in hypercubes of a system's space over small time-intervals and then finding the average rate of information produced as both the size and time interval approach 0.
+
+https://www.youtube.com/watch?v=D89ngRr4uZg: (Newton’s three-body problem explained - Fabio Pacucci)
+Only essential different information from previous sources mentioned is how researchers ran the experiment in 2009 about simulating the solar system over 500 million years, or some really long timescale, with each system having the distance between the Sun and Mercury be different by 1 millimeter, and they observed in about 1% of the simulations the entire solar system collapsed with planets colliding or falling out of orbit.
