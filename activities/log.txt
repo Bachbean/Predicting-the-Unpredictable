@@ -118,3 +118,9 @@ Despite the unpredictable nature of chaotic systems, there are still ways of mea
 
 https://www.youtube.com/watch?v=D89ngRr4uZg: (Newton’s three-body problem explained - Fabio Pacucci)
 Only essential different information from previous sources mentioned is how researchers ran the experiment in 2009 about simulating the solar system over 500 million years, or some really long timescale, with each system having the distance between the Sun and Mercury be different by 1 millimeter, and they observed in about 1% of the simulations the entire solar system collapsed with planets colliding or falling out of orbit.
+
+https://www.youtube.com/watch?v=mm3I4m8YsnM: (Chaos and the Three Body Problem)
+Scientists discovered that many of the three body systems, which are typically quite unstable save for a few exceptions that don't occur in nature, devolve into binary systems and a hypervelocity star, which are stars that move at extreme velocities after a combination of events, sometimes including ejection from another system. Some science fiction theories suggest that we could potentially use these hypervelocity stars as a way to travel to different galaxies.
+
+https://www.youtube.com/watch?v=et7XvBenEo8: (Solving the Three Body Problem)
+Researchers noticed that despite the apparent complexity of some of the stable 3-body configurations, they followed a path that traced along the surface of a sphere, now called the shape sphere. Although the system is chaotic, as it evolves the relative position of the objects remains in this periodic sphere path.
