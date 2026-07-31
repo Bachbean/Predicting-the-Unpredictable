@@ -124,3 +124,6 @@ Scientists discovered that many of the three body systems, which are typically q
 
 https://www.youtube.com/watch?v=et7XvBenEo8: (Solving the Three Body Problem)
 Researchers noticed that despite the apparent complexity of some of the stable 3-body configurations, they followed a path that traced along the surface of a sphere, now called the shape sphere. Although the system is chaotic, as it evolves the relative position of the objects remains in this periodic sphere path.
+
+https://www.youtube.com/watch?v=aSDXf2chp3E: (Chaos in Non-linear systems Part 1 || Lorenz system || Lorenz attractor || Euler's method)
+A Lorenz system is a type of continuous chaotic system characterized by a system of three differential equations with a few parameters: dx/dt = a(y-x), dy/dt = x(b - z) - y, dz/dt = xy - cz. This graph also always produces a butterfly-type shape with two central "attraction" points called Lorenz attractors.
