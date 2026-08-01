@@ -130,3 +130,5 @@ A Lorenz system is a type of continuous chaotic system characterized by a system
 
 Gemini general concepts of Lorenz systems:
 Technically in the equations above a represents sigma, or the Prandtl number which measures fluid viscosity; b represents rho, or the Rayleigh number measuring temperature difference; and c represents beta, or a parameter that describes the volume of the space. Lorenz developed these simple equations based on convection models of fluid circulation and demonstrated that chaos could arrive from even simple deterministic systems. Attractors are specifically the set of geometric states that changes in the initial condition produce; almost like all potential paths of a system. An interesting property of Lorenz attractors is that they often have fractal dimension.
+
+https://www.youtube.com/watch?v=fIG2jtOhW0U: (The Lorenz Equations Derived: Chaotic Waterwheel & Atmospheric Convection | Strogatz Ch. 9)
