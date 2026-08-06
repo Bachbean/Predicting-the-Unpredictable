@@ -133,3 +133,6 @@ Technically in the equations above a represents sigma, or the Prandtl number whi
 
 https://www.youtube.com/watch?v=fIG2jtOhW0U: (The Lorenz Equations Derived: Chaotic Waterwheel & Atmospheric Convection | Strogatz Ch. 9) (Part 1)
 The Malkus Waterwheel is a classical example of chaos arising in a simple situation: a series of buckets with holes are connected on a wheel and a tap pours water down at a constant rate. A seemingly unpredictable pattern of the wheel rotating clockwise and counterclockwise occurs. However, it is perfectly possible to write the describing differential equations for these systems in terms of a few variables and it turns out that these equations are very similar to those used to model convection flows. 
+
+https://www.youtube.com/watch?v=ZH-feJ8iX1w: (Chaos in Non-linear systems Part 2|| Lorenz system || Lorenz attractor || Euler's method)
+One way of modeling chaos is through numerical integration, or measuring values at each time step. There are multiple ways to program or evaluate the values at each time step, and an illustrative but not necessarily accurate method is Euler's method of approximation; the biggest issue is that the error scales very fast so programmers have to use different ways like Gauss-Streidal, Runge-Kutta, or clean numerical simulation which is really expensive.
