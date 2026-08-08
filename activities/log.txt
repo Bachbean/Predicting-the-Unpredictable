@@ -136,3 +136,6 @@ The Malkus Waterwheel is a classical example of chaos arising in a simple situat
 
 https://www.youtube.com/watch?v=ZH-feJ8iX1w: (Chaos in Non-linear systems Part 2|| Lorenz system || Lorenz attractor || Euler's method)
 One way of modeling chaos is through numerical integration, or measuring values at each time step. There are multiple ways to program or evaluate the values at each time step, and an illustrative but not necessarily accurate method is Euler's method of approximation; the biggest issue is that the error scales very fast so programmers have to use different ways like Gauss-Streidal, Runge-Kutta, or clean numerical simulation which is really expensive.
+
+https://www.youtube.com/watch?v=GdNjTJZnTmM: (Chaos Theory Simulation in Python! || Lorenz Attractor & The butterfly effect!)
+Python script for plotting animated solutions to Lorenz system using odeint which revolves around backward differentiation.
