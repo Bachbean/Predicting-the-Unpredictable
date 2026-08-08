@@ -63,7 +63,7 @@
    - Stability analysis: https://www.youtube.com/watch?v=U-bWDtbB4qY --
    - Finite difference approach: https://www.youtube.com/watch?v=aSDXf2chp3E --
    - Python approach: https://www.youtube.com/watch?v=ZH-feJ8iX1w --
-   - Programming it: https://www.youtube.com/watch?v=GdNjTJZnTmM
+   - Programming it: https://www.youtube.com/watch?v=GdNjTJZnTmM --
 
 ## 9. Phase-space reconstruction
    - Basic 1: https://www.youtube.com/watch?v=6i57udsPKms
