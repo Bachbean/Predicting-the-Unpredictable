@@ -139,3 +139,6 @@ One way of modeling chaos is through numerical integration, or measuring values 
 
 https://www.youtube.com/watch?v=GdNjTJZnTmM: (Chaos Theory Simulation in Python! || Lorenz Attractor & The butterfly effect!)
 Python script for plotting animated solutions to Lorenz system using odeint which revolves around backward differentiation.
+
+https://www.youtube.com/watch?v=6i57udsPKms: (Takens' theorem in action for the Lorenz chaotic attractor)
+Manifolds are defined as the paths traced out in the entire defined space by a system and one technique people use is to project the manifold onto each physical dimension the system exists in and then have separate data streams. It is easy to recover the original manifold from the data stream but what Takens' theorem gives us is that we may take any one of the projections, create a new shadow manifold by adding a time-lag delay to each dimension and it will be a map to the original manifold. Also based on things like nearest neighbors, though we have to be careful about false neighbors when scaling down a dimension like shadow casted by hand from far away.
