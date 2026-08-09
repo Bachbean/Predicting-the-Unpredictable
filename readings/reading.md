@@ -68,7 +68,7 @@
 ## 9. Phase-space reconstruction
    - Basic 1: https://www.youtube.com/watch?v=6i57udsPKms --
    - Basic 2: https://www.youtube.com/watch?v=NrFdIz-D2yM --
-   - Delayed coordinate embedding: https://www.youtube.com/watch?v=eJB0kxpR4Rk
+   - Delayed coordinate embedding: https://www.youtube.com/watch?v=eJB0kxpR4Rk --
    - your own reading on Takens theorem
    - your own reading on embedding a time series using delayed coordinates
    - your own reading on embedded dimension
