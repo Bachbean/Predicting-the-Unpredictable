@@ -76,6 +76,6 @@
    - your own reading on the applications for a nonlinear system
      
 ## ?. Attractor visualization
-   - https://www.youtube.com/watch?v=fDek6cYijxI
-   - https://www.youtube.com/watch?v=PDeN3iCtyNY
-   - https://www.youtube.com/watch?v=uzJXeluCKMs&t=534s
+   - https://www.youtube.com/watch?v=fDek6cYijxI --
+   - https://www.youtube.com/watch?v=PDeN3iCtyNY --
+   - https://www.youtube.com/watch?v=uzJXeluCKMs&t=534s --
