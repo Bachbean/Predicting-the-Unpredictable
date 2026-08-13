@@ -75,7 +75,11 @@
    - your own reading on the topology of manifolds
    - your own reading on the applications for a nonlinear system
      
-## ?. Attractor visualization
+## 10. Attractor visualization
    - https://www.youtube.com/watch?v=fDek6cYijxI --
    - https://www.youtube.com/watch?v=PDeN3iCtyNY --
    - https://www.youtube.com/watch?v=uzJXeluCKMs&t=534s --
+
+## 11. Research exploring
+   - Given a time series, examine whether it contains any chaos and the potential shape of the attractor
+   - 
