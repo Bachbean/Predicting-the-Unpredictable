@@ -81,5 +81,5 @@
    - https://www.youtube.com/watch?v=uzJXeluCKMs&t=534s --
 
 ## 11. Research exploring
-   - Given a time series, examine whether it contains any chaos and the potential shape of the attractor
+   - Given time series data in the script folder (see file temperature.txt), write a program to examine whether it contains any chaos and if so what is the potential shape of the attractor
    - 
