@@ -1,0 +1,106 @@
+Layout guideline: “Predicting the Unpredictability”
+
+1. Title — Predicting the Unpredictability
+Subtitle: How simple rules can create behavior we can't predict
+Your name/class/school
+Visual: butterfly, weather map, chaotic trajectory, or double pendulum
+Opening question: “If we know the rules governing something, does that mean we can predict what it will do?”
+
+2. The Prediction Challenge
+Question: “What will the weather be exactly 30 days from today?”
+Weather forecast tomorrow → pretty good
+Forecast next week → harder
+Exact weather next month → essentially impossible
+
+3. Simple vs. Complicated vs. Unpredictable
+Introduce three ideas
+Simple: few rules, easy to understand
+Complicated: many rules/components
+Chaotic: can follow simple rules but still be extremely difficult to predict
+Key message: Chaos does not mean randomness.
+
+4. A Tiny Change…
+Show two nearly identical starting conditions: A: 1.00000, B: 1.000001
+Focus “Shouldn't their futures be almost identical?”
+Introduce: Sensitive dependence on initial conditions
+
+5. The Butterfly Effect
+Explain the famous idea associated with Edward Lorenz.
+Important clarification: A butterfly doesn't literally cause a tornado.
+The idea is that tiny differences in the initial state can eventually lead to very different outcomes.
+Visual: Butterfly → atmosphere → weather system
+
+6. What Is a Nonlinear System?
+Keep mathematics minimal.
+Linear: Double the input → roughly double the output.
+Nonlinear: A small change in input can produce a disproportionately large change in output.
+Examples: Weather, pendulums,...
+
+7. The Pendulum Experiment
+Show two pendulums starting almost identically.
+Ask the students to predict: “After 30 seconds, will they still be synchronized?”
+Start with a normal pendulum, then introduce a double pendulum.
+The double pendulum is governed by deterministic physical laws, yet its motion can become chaotic.
+
+8. The Double Pendulum: Deterministic but Chaotic
+Random: There may be no deterministic rule allowing us to predict the outcome.
+Chaotic: There is a deterministic rule, but tiny uncertainties grow rapidly.
+This is one of the most important concepts in the talk.
+
+9. Can We Predict Chaos?
+Introduce the concept of a: Prediction horizon
+Every chaotic system has a limit beyond which precise prediction becomes unreliable.
+Visual: Present → near future → ???
+
+10. Why Does Prediction Break Down?
+Focus: That tiny error gets amplified by nonlinear dynamics.
+A useful analogy: “Imagine photocopying a picture, then photocopying the copy, then the copy of the copy…”
+Small imperfections accumulate.
+
+11. A Simple Mathematical Example
+Introduce the logistic map or Lorenz model (Don't focus on solving it.)
+May try this, as it is one of the simplest equations you can write down. It can produce:
+
+12. Let's Make a Prediction
+Audience interaction. Give students a simple iterative rule.
+Have them predict whether the values will: settle down, repeat, or become unpredictable.
+Reveal the result progressively.
+
+13. The Road to Chaos
+Show a visual progression: Stable → oscillating → doubling → chaotic
+This introduces the idea of period doubling.
+You don't need the mathematical details.
+The takeaway: Changing one parameter can transform the behavior of an entire system.
+
+14. The Chaos Game
+Introduce an unexpected example. A simple rule such as: “Randomly choose one of three corners of a triangle and move halfway toward it.”
+Repeated many times, this creates the Sierpiński triangle.
+The surprising point: Order can emerge from simple repeated rules.
+This gives the talk a nice counterbalance: chaos isn't just about disorder.
+
+15. Predictability vs. Probability
+Statistical prediction
+Examples: Weather probability, Hurricane intensity
+
+16. Weather: We Can't Predict Everything, But…
+Explain that meteorologists don't simply give up because weather is chaotic.
+They use: Mathematical models, Huge amounts of data, Multiple simulations
+Then estimate probabilities.
+
+17. Can We Predict the Unpredictable?
+Now answer the title question.
+But we can predict: Patterns, Probabilities,  Statistical behavior
+Prediction horizons
+When our predictions become unreliable
+
+18. Where Does This Matter?
+Examples: Weather forecasting, quantum system.. 
+
+19. Final Question — What Does “Predictable” Mean?
+Return to the opening question. Conclusions
+Key ideas:
+Simple rules can create extraordinary complexity.
+Deterministic does not necessarily mean predictable.
+When exact prediction fails, probability and patterns can still be powerful.
+
+Final line: Maybe the goal of science isn't to predict everything. Maybe it's to understand the limits of prediction.
