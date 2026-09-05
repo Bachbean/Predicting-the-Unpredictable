@@ -142,3 +142,7 @@ Python script for plotting animated solutions to Lorenz system using odeint whic
 
 https://www.youtube.com/watch?v=6i57udsPKms: (Takens' theorem in action for the Lorenz chaotic attractor)
 Manifolds are defined as the paths traced out in the entire defined space by a system and one technique people use is to project the manifold onto each physical dimension the system exists in and then have separate data streams. It is easy to recover the original manifold from the data stream but what Takens' theorem gives us is that we may take any one of the projections, create a new shadow manifold by adding a time-lag delay to each dimension and it will be a map to the original manifold. Also based on things like nearest neighbors, though we have to be careful about false neighbors when scaling down a dimension like shadow casted by hand from far away.
+
+Three body systems in atmospheric systems:
+Converse to the three body systems present in celestial mechanics, such as the classic Sun-Earth-Moon, there are atmospheric equivalents like the three hurricane
+system of Lowell, Karina, and Marie which become extremely difficult to predict given how each hurricane would directly change the trajectories of the others. In fluid dynamics, a field directly correlated to these weather systems, there is a three vortex problem where they each affect the others' rotational pulls, but this system is able to be modeled mathematically. In this system it takes at least 4 vortexes to become fully chaotic.
