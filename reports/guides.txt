@@ -104,3 +104,7 @@ Deterministic does not necessarily mean predictable.
 When exact prediction fails, probability and patterns can still be powerful.
 
 Final line: Maybe the goal of science isn't to predict everything. Maybe it's to understand the limits of prediction.
+
+Layout guideline for final presentation: “Hurricane intensity chaos detection”
+
+1. 
