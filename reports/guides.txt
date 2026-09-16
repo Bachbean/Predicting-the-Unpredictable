@@ -107,4 +107,5 @@ Final line: Maybe the goal of science isn't to predict everything. Maybe it's to
 
 Layout guideline for final presentation: “Hurricane intensity chaos detection”
 
-1. 
+1. Introduction to hurricanes (how they look, their meaning, ...)
+2. 
