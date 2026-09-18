@@ -1,4 +1,4 @@
-Layout guideline: “Predicting the Unpredictability”
+Layout guideline for first presentation: “Predicting the Unpredictability”
 
 1. Title — Predicting the Unpredictability
 Subtitle: How simple rules can create behavior we can't predict
@@ -106,7 +106,9 @@ When exact prediction fails, probability and patterns can still be powerful.
 Final line: Maybe the goal of science isn't to predict everything. Maybe it's to understand the limits of prediction.
 To be presented at the Youth Environmental Leadership Summit (YELS) at Indiana University, Bloomington.
 
-Layout guideline for final presentation: “Hurricane intensity chaos detection”
+Layout guideline for final presentation: “Tropical cylone intensity chaos detection” (15-20 slides at most)
 
 1. Introduction to hurricanes (how they look, their meaning, ...)
-2. Introduce Objective of this presentation.
+2. Introduce Objective of this presentation and why it is important.
+3. Data 
+4. Methodology
