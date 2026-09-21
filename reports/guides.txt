@@ -108,6 +108,7 @@ To be presented at the Youth Environmental Leadership Summit (YELS) at Indiana U
 
 Layout guideline for final presentation: “Tropical cylone intensity chaos detection” (15-20 slides at most)
 
+0. Starting from slide 5 in the outline pptx and add yours below from here. 
 1. Introduction to hurricanes (how they look, their meaning, ...)
 2. Introduce Objective of this presentation and why it is important.
 3. Data 
