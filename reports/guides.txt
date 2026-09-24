@@ -10,6 +10,12 @@ Layout guideline for final presentation: “Tropical cylone intensity chaos dete
 
 What are your next step? This needs to be clearly discussed. 
 
+Diya's suggestions:
+- add slide for what chaos is for clarity
+- replace the time series with some illustration for the hurricane dynamics and how it is related to chaos
+- revise the conclusions to make it more clear
+- 
+
 Layout guideline for first presentation: “Predicting the Unpredictability”
 
 1. Title — Predicting the Unpredictability
