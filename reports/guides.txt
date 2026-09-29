@@ -1,3 +1,10 @@
+Next steps:
+
+- Using more metrics
+- use more data for other chaotic systems
+- visualize the attractor on higher dimensions
+- complete all left-over revisions for presentation
+
 Layout guideline for final presentation: “Tropical cylone intensity chaos detection” (15-20 slides at most)
 
 0. Starting from slide 5 in the outline pptx and add yours below from here. 
