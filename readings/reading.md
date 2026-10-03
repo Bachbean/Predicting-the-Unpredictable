@@ -82,4 +82,9 @@
 
 ## 11. Research exploring
    - Given time series data in the script folder (see file temperature.txt), write a program to examine whether it contains any chaos and if so what is the potential shape of the attractor
-   - 
+
+## 12. Reports/presentations
+   - Group presentation on Aug 21 on the nonlinear phase-space reconstruction
+   - YELS presentation for young leadership program on Sep 25 on the application of intensity chaos dynamics to hurricane intensity
+   - Group presentation on Nov 28 on the topic of visualization of chaotic attractor in the reduced phase-space
+   - Group presentation on Dec 18 on the topic of nonlinear noise filtering and spectral analyses
