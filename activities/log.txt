@@ -146,3 +146,6 @@ Manifolds are defined as the paths traced out in the entire defined space by a s
 Three body systems in atmospheric systems:
 Converse to the three body systems present in celestial mechanics, such as the classic Sun-Earth-Moon, there are atmospheric equivalents like the three hurricane
 system of Lowell, Karina, and Marie which become extremely difficult to predict given how each hurricane would directly change the trajectories of the others. In fluid dynamics, a field directly correlated to these weather systems, there is a three vortex problem where they each affect the others' rotational pulls, but this system is able to be modeled mathematically. In this system it takes at least 4 vortexes to become fully chaotic.
+
+Plasma system:
+Need to analysize the plasma data obtained from the top of the atmosphere to see if the plasma dynamics contains any low-dimensional chaos. Seem to be quite trivial task, but at least it could help confirm all of the scripts developed for other model here.
