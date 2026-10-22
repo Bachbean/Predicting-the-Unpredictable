@@ -5,6 +5,7 @@ Next steps:
 - visualize the attractor on higher dimensions
 - complete all left-over revisions for presentation
 - prepare for talk on Nov 20 on chaos and life-system!!!
+- Using the data from a plasma model to visualize the potential chaotic attractor 
 
 Layout guideline for final presentation: “Tropical cylone intensity chaos detection” (15-20 slides at most)
 
